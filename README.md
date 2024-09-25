@@ -1,4 +1,4 @@
-# Gradient-Aware for Class-Imbalanced Semi-supervised Medical Image Segmentation
+# [ECCV2024] GALoss
 
 This repository is the official implementation of **[Gradient-Aware for Class-Imbalanced Semi-supervised Medical Image Segmentation](https://eccv.ecva.net/virtual/2024/poster/1540), ECCV2024**. 
 
