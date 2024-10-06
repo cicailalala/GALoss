@@ -35,8 +35,9 @@ CUDA_VISIBLE_DEVICES=0 python train_Synapse_CPS.py --seed 1337 --labelnum 4
 ```bibtex
 @inproceedings{qi2024gradient,
   title={Gradient-Aware for Class-Imbalanced Semi-supervised Medical Image Segmentation},
-  author={Qi, Wenbo and Jiafei, Wu and Chan, SC},
-  booktitle={ECCV2024},
-  year={2024}
+  author={Qi, Wenbo and Wu, Jiafei and Chan, Shing Chow},
+  booktitle={European Conference on Computer Vision},
+  year={2024},
+  organization={Springer}
 }
 ```
