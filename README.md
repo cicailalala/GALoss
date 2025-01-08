@@ -37,6 +37,7 @@ CUDA_VISIBLE_DEVICES=0 python train_Synapse_CPS.py --seed 1337 --labelnum 4
   title={Gradient-Aware for Class-Imbalanced Semi-supervised Medical Image Segmentation},
   author={Qi, Wenbo and Wu, Jiafei and Chan, Shing Chow},
   booktitle={European Conference on Computer Vision},
+  pages={473--490},
   year={2024},
   organization={Springer}
 }
