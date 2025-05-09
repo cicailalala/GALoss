@@ -17,7 +17,8 @@ This repository is the official implementation of **[Gradient-Aware for Class-Im
 [Synapse](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789). Following [DHC](https://github.com/xmed-lab/DHC), 20 samples were split for training, 4 samples for validation, and 6 samples for testing. We use the processed data by [MagicNet](https://github.com/DeepMed-Lab-ECNU/MagicNet).
 
 **Dataset II**
-[AMOS](https://amos22.grand-challenge.org/Dataset/). The processed dataset can be downloaded via [this link](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/qiwb_connect_hku_hk/Eq0j1GmOq-5AsRqPwTCgnrABjV3v-qYm4nZirzOiVN6ayw?e=OinMKI). Download and place the datasets in ```./data/```
+[AMOS](https://amos22.grand-challenge.org/Dataset/). The processed dataset can be downloaded via BaiduPan: https://pan.baidu.com/s/1TVZO_Ebx0t6helGOhuIF2Q 
+password：zb96. Download and place the datasets in ```./data/```
 
 **Dataset III**
 [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/). We use the code and preprocessed data by [SSLMIS](https://github.com/HiLab-git/SSL4MIS/tree/master). 
